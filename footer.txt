@@ -1,0 +1,12 @@
+<!-- Footer -->
+<footer class="sticky-footer bg-white">
+  <div class="container my-auto">
+    <div class="copyright text-center my-auto">
+    <span>Copyright &copy; <img src="<?= base_url('public/img/cemigea.jpg')?>" alt=""style="width:5%";>   <?= date('Y') ?> </span>
+    </div>
+  </div>
+ </footer>d
+      <!-- End of Footer -->
+
+
+      Mula preguiça lembra de colar em todo index php pq vc tem preguiça de fazer a ligação direito. =D
